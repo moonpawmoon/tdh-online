@@ -1,0 +1,8 @@
+{
+  "name": "tdh-online",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  }
+}
